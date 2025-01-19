@@ -1,0 +1,118 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+  
+
+#header {
+    color: #8E26C0;
+    font-family: "JetBrains Mono";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 24px;
+    text-align: center;
+    max-width: 614px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#text1 {
+    margin-top: 29px;
+    margin-left: 32px;
+    color: #F00;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 565px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    background: #FFE8E8;
+}
+
+#text2 {
+    color: #85647B;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 24px 40px;
+    max-width: 943px;
+    width: 100%;
+    border-right: 6px solid #05F;
+    border-left: 4px solid #C11574;
+    border-top: 2px solid #00C76E;
+    border-bottom: 2px solid #7F56D9;
+    margin-left: 32px;
+    margin-top: 32px;
+    margin-bottom: 44px;
+}
+
+#text3 {
+    color: #414651;
+    text-align: center;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    max-width: 943px;
+    width: 100%;
+    padding-top: 24px;
+    padding-left: 40px;
+    padding-right: 150px;
+    padding-bottom: 24px;
+    margin-left: 32px;
+    background: #FFE8E8;
+}
+
+#percent {
+    color: #FF4405;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: auto;
+    text-decoration-thickness: auto;
+    text-underline-offset: auto;
+    text-underline-position: from-font;
+}
+
+#text4 {
+    color: #0064CE;
+    text-align: right;
+    font-family: Lato;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    max-width: 989px;
+    border-width: 1069px;
+    padding: 24px 40px;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid #3538CD;
+    margin-left: 32px;
+    margin-top: 21px;
+    margin-bottom: 76px;
+}
+
+#picture {
+    width: 556px;
+    height: 347px;
+    margin-left: 32px;
+    width: fixed;
+    height: fixed;
+}
